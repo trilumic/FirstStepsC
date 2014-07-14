@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1405069356 source:d:\users\emictr\c++\testproject++\main.cpp
+	<iostream>
+	<stdio.h>
+	"math.h"
+	"date.h"
+	"string.h"
+	"IntArray.h"
+
+1404990094 d:\users\emictr\c++\testproject++\math.h
+
+1404915747 source:d:\users\emictr\c++\testproject++\test.cpp
+
+1404990129 source:d:\users\emictr\c++\testproject++\math.cpp
+
+1404998209 source:d:\users\emictr\c++\testproject++\date.cpp
+	"Date.h"
+	<stdio.h>
+	<iostream>
+
+1404990870 d:\users\emictr\c++\testproject++\date.h
+
+1405061681 source:d:\users\emictr\c++\testproject++\src\intarray.cpp
+	"IntArray.h"
+
+1405060997 d:\users\emictr\c++\testproject++\include\intarray.h
+
+1405073842 d:\users\emictr\c++\testproject++\intarray.h
+	<assert.h>
+
